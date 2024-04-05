@@ -104,7 +104,6 @@ namespace WpfApp1.Share
             _document.Load(xmlFilePath);
         }
 
-
         public Country GetCountry(XmlNode node)
         {
             var country = new Country();    
