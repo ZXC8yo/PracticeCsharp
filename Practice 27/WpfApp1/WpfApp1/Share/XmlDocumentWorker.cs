@@ -138,6 +138,5 @@ namespace WpfApp1.Share
             }
             return country;
         }
-
     }
 }
